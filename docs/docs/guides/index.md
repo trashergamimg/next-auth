@@ -1,6 +1,6 @@
 ---
 title: Overview
-sidebar_position: 0
+sid: 0
 ---
 
 This section contains guides for common use cases.
